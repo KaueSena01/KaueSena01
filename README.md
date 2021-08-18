@@ -1,4 +1,4 @@
-### Hello Dev! ✋<br/>Welcome to my GitHub! 🤙🚀
+### Welcome to my GitHub! ✋🚀
 <div>
   <a href="https://github.com/KaueSena01">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=KaueSena01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
