@@ -24,6 +24,7 @@
     <img align="center" alt="Kaue-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Kaue-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Kaue-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="right" alt="Kaue-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgalactic-castle.tumblr.com%2Fpost%2F158004506989%2Frestawhile&psig=AOvVaw1hmhrCz6EqH6nVi7aEfv8M&ust=1645716305120000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCq-pqRlvYCFQAAAAAdAAAAABAY?width=676&height=676">
   </div>
 </p>
   
