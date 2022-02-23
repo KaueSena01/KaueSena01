@@ -36,21 +36,20 @@
     <img src="https://komarev.com/ghpvc/?username=KaueSena01&label=Profile%20views&color=000000&label=Profile+Views&style=flat-square">
 
   </a>
-  <a href="https://github.com/KaueSena01?tab=stars">
-    <img src="https://img.shields.io/github/stars/KaueSena01?color=000000&label=Stargazers&style=flat-square">
-
-  </a>
+  
   <a href="https://github.com/KaueSena01?tab=followers">
     <img src="https://img.shields.io/github/followers/KaueSena01?color=000000&label=Followers&style=flat-square">
 
   </a>
 </p>
-  
-<div><br/>
-  <a href = "#"><img src="https://img.shields.io/badge/-Portfólio-7289DA?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kaue-sena-a36169210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+<h2 align="center">Social</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/kaue_sena17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2596BE?style=for-the-badge&logo=instagram&logoColor=white">     </a>
+  <a href="kauealvessena18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-BE2528?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kaue-sena-a36169210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</p>
   
   ##
  
