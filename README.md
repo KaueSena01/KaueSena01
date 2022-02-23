@@ -31,9 +31,6 @@
   
 <h2 align="center">Statistics</h2>
 
-#
-
-
 <p align="center">
   <a href="https://github.com/KaueSena01">
     <img src="https://komarev.com/ghpvc/?username=KaueSena01&label=Profile%20views&color=000000&label=Profile+Views&style=flat-square">
