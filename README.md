@@ -46,8 +46,8 @@
 <h2 align="center">Social</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/kaue_sena17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2596BE?style=for-the-badge&logo=instagram&logoColor=white">     </a>
-  <a href="kauealvessena18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-BE2528?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/kaue_sena17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2596be?style=for-the-badge&logo=instagram&logoColor=white">     </a>
+  <a href="kauealvessena18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-BE2528?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kaue-sena-a36169210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
   
