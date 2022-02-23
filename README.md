@@ -6,7 +6,7 @@
   </a>
 </div>
    
-<h2 align="center">Development tools</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <div align="center">
