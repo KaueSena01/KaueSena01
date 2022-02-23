@@ -5,9 +5,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueSena01&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
-  
-  ##
-  
+   
 <h2 align="center">Development tools</h2>
 
 <p align="center">
