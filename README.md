@@ -24,7 +24,7 @@
     <img align="center" alt="Kaue-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Kaue-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Kaue-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <img align="right" alt="Kaue-pic" height="150" style="border-radius:50px;" src="https://static.vecteezy.com/ti/vetor-gratis/p1/523309-desenvolvimento-da-web-e-conceito-de-programacao-da-codificacao-otimizacao-de-seo-design-web-moderno-no-da-tela-do-portatil-vetor.jpg?width=676&height=676">
+    <img align="right" alt="Kaue-pic" height="150" style="border-radius:50px;" src="https://static.vecteezy.com/ti/vetor-gratis/p1/523309-desenvolvimento-da-web-e-conceito-de-programacao-da-codificacao-otimizacao-de-seo-design-web-moderno-no-da-tela-do-portatil-vetor.jpg?width=150&height=150">
   </div>
 </p>
   
