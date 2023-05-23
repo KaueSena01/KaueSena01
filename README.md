@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 📱 I currently work as a mobile developer on [FitBank 450](https://fitbank.com.br/)
+- 📱 I currently work as a mobile developer on [VR Software](https://www.vrsoft.com.br/)
 - 🌱 I'm currently working on the OSB application, an application for paying bills and transactions either by PIX, QrCode or Barcode.
 - 📫 Chat with me at kauealvessena17@gmail.com
 
